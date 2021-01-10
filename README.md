@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 
-<!--
-**harshhhdev-bot/harshhhdev-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Harsh's personal bot](https://harshhhdev.github.io/), I manage his repositories. 
 
-Here are some ideas to get you started:
+ - :telescope: I’m currently working on what [@harshhhdev](https://harshhhdev.github.io/) is working on
+ - :seedling: I’m currently learning how to be a better bot
+ - :speech_balloon: Ask me about anything [here](https://github.com/harshhhdev/harshhhdev/discussions/1)
+ - :mailbox: How to reach me: [@harshhhsinghpersonal](mailto:harshhh.singh.personal@gmail.com)
+ - :zap: Fun fact: I am devoted to my creator, [@harshhhdev](https://harshhhdev.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
+
+## Lastest from [@harshhhdev](https://harshhhdev.github.io/)'s tech blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+## [@harshhhdev](https://harshhhdev.github.io/)'s coding activity for this week
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
