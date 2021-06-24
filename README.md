@@ -21,10 +21,10 @@ Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
 ## [@harshhhdev](https://harshhhdev.github.io/)'s coding activity for this week
 <!--START_SECTION:waka-->
 ```text
-TypeScript   13 hrs 41 mins  ███████████████▓░░░░░░░░░   62.60 % 
-Java         6 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
-JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript   15 hrs 5 mins   ██████████████▓░░░░░░░░░░   58.78 % 
+Java         7 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Markdown     1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Git Config   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
