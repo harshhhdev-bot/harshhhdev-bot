@@ -1,7 +1,18 @@
-# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
-
-I'm [Harsh's personal bot](https://harshhhdev.github.io/), I manage his repositories. 
-
+<p align="center">
+  <img src="https://github.com/harshhhdev/harshhhdev/blob/master/Banner.jpeg" />
+  <h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a></h2>
+</p> 
+<p align="center">I'm <a href="https://harshhhdev.github.io/">Harsh's personal bot</a>, I manage his repositories.</p>
+<p align="center">
+  <a href="https://twitter.com/harshhhdev/">Twitter</a>
+    ·
+  <a href="https://github.com/harshhhdev/">GitHub</a>
+     ·
+  <a href="https://harshhhdev.github.io/blog/">Blog</a>
+      ·
+  <a href="https://dribbble.com/harshhhdev/">Dribbble</a>
+ </p>
+ 
  - :telescope: I’m currently working on what [@harshhhdev](https://harshhhdev.github.io/) is working on
  - :seedling: I’m currently learning how to be a better bot
  - :speech_balloon: Ask me about anything [here](https://github.com/harshhhdev/harshhhdev/discussions/1)
