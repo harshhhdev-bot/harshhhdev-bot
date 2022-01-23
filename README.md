@@ -23,11 +23,11 @@ Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
 
 ## Lastest from [@harshhhdev](https://harshhhdev.github.io/)'s tech blog
 <!-- BLOG-POST-LIST:START -->
+- [Adding a Command Palette to Your Website](https://dev.to/harshhhdev/adding-a-command-palette-to-your-website-5cpp)
 - [🚀 Debutur - Build Your Custom Homepage](https://dev.to/harshhhdev/debutur-fa)
 - [Translating Your Next.js Apps](https://dev.to/harshhhdev/translating-your-nextjs-apps-5748)
 - [2021, an look back](https://dev.to/harshhhdev/2021-an-look-back-4k99)
 - [Custom Cursors in React](https://dev.to/harshhhdev/custom-cursors-in-react-2c8)
-- [Designing for the elderly](https://dev.to/harshhhdev/designing-for-the-elderly-3neg)
 <!-- BLOG-POST-LIST:END -->
 ## [@harshhhdev](https://harshhhdev.github.io/)'s coding activity for this week
 <!--START_SECTION:waka-->
