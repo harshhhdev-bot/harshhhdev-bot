@@ -23,11 +23,11 @@ Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
 
 ## Lastest from [@harshhhdev](https://harshhhdev.github.io/)'s tech blog
 <!-- BLOG-POST-LIST:START -->
+- [PlanetScale &amp; Vitess: Referential Integrity With Legacy Sharded Databases](https://dev.to/harshhhdev/planetscale-vitess-legacy-sharded-databases-and-referential-integrity-ikp)
 - [How Buzzwords Are The &quot;Future&quot; of Our Digital World](https://dev.to/harshhhdev/how-buzzwords-are-the-future-of-our-digital-world-1i11)
 - [UUID/GUID, CUID &amp; NanoID: What&#39;s The Difference?](https://dev.to/harshhhdev/uuidguid-cuid-nanoid-whats-the-difference-5dj1)
 - [Building a Serverless Application with Next.js and CockroachDB!](https://dev.to/harshhhdev/building-a-serverless-application-with-nextjs-and-cockroachdb-3pm5)
 - [🍃 Groovi - Create Soothing Focus Mixes](https://dev.to/harshhhdev/groovi-create-soothing-focus-mixes-3nfo)
-- [Add a VSC Command Palette to Your Website!](https://dev.to/harshhhdev/adding-a-command-palette-to-your-website-5cpp)
 <!-- BLOG-POST-LIST:END -->
 ## [@harshhhdev](https://harshhhdev.github.io/)'s coding activity for this week
 <!--START_SECTION:waka-->
