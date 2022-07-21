@@ -27,7 +27,7 @@ Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
 - [Fresh: The Next-Gen JavaScript Web Framework](https://dev.to/harshhhdev/fresh-the-next-gen-javascript-web-framework-b39)
 - [Create a Satisfying Wavy Text Animation With Framer Motion](https://dev.to/harshhhdev/create-a-satisfying-wavy-text-animation-with-framer-motion-3hb5)
 - [Building The Perfect Developer Portfolio](https://dev.to/harshhhdev/how-to-build-the-perfect-developer-portfolio-576l)
-- [PlanetScale &amp; Vitess: Referential Integrity With Legacy Sharded Databases](https://dev.to/harshhhdev/planetscale-vitess-legacy-sharded-databases-and-referential-integrity-ikp)
+- [Referential Integrity With Sharded Databases](https://dev.to/harshhhdev/planetscale-vitess-legacy-sharded-databases-and-referential-integrity-ikp)
 <!-- BLOG-POST-LIST:END -->
 ## [@harshhhdev](https://harshhhdev.github.io/)'s coding activity for this week
 <!--START_SECTION:waka-->
