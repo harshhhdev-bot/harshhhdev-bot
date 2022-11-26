@@ -33,8 +33,8 @@ Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 34 mins   ████████████████▓░░░░░░░░   66.99 %
-CSS          2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+TypeScript   9 hrs 34 mins   ████████████████▓░░░░░░░░   66.93 %
+CSS          2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
 Other        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
