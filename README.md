@@ -33,12 +33,12 @@ Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 8 mins   ██████████████░░░░░░░░░░░   55.82 %
-CSS          3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-Rust         3 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-Bash         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+TypeScript   11 hrs 6 mins   ██████████████░░░░░░░░░░░   56.64 %
+CSS          3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+Rust         3 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Bash         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
