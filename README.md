@@ -23,11 +23,11 @@ Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
 
 ## Lastest from [@harshhhdev](https://harshhhdev.github.io/)'s tech blog
 <!-- BLOG-POST-LIST:START -->
+- [2022, a look back](https://dev.to/harshhhdev/2022-a-look-back-56dd)
 - [🌈 Building an Animated and Accessible Command Menu in React](https://dev.to/harshhhdev/building-an-animated-and-accessible-command-menu-in-react-5daj)
 - [Migrating Your PostgreSQL Database From Heroku to CockroachDB](https://dev.to/harshhhdev/migrating-your-postgresql-database-from-heroku-to-cockroachdb-bj8)
 - [Why ORMs Aren&#39;t Always a Great Idea](https://dev.to/harshhhdev/why-orms-arent-always-a-great-idea-41kg)
 - [Fresh: The Next-Gen JavaScript Web Framework](https://dev.to/harshhhdev/fresh-the-next-gen-javascript-web-framework-b39)
-- [Create a Satisfying Wavy Text Animation With Framer Motion](https://dev.to/harshhhdev/create-a-satisfying-wavy-text-animation-with-framer-motion-3hb5)
 <!-- BLOG-POST-LIST:END -->
 ## [@harshhhdev](https://harshhhdev.github.io/)'s coding activity for this week
 <!--START_SECTION:waka-->
