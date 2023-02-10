@@ -33,7 +33,11 @@ Just hit `npx harsh-dev` to learn about my creator in a unique way :wink:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Svelte       2 hrs 5 mins    ███████████████████░░░░░░   76.47 %
+CSS          16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+HTML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
